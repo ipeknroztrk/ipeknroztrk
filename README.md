@@ -2,20 +2,31 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C779D0&height=230&section=header&text=İpek%20Nur&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h2 align="center">👩🏻‍💻 Full Stack Developer | Swift & .NET • PostgreSQL</h2>
+<h2 align="center">👩🏻‍💻 Full Stack Developer | Swift • .NET • PostgreSQL</h2>
 
 <p align="center">
 Merhaba, ben <b>İpek Nur</b>. Mobil ve web tabanlı yazılımlar geliştiriyorum.  
-Gerçek projeler üretmeyi, kullanıcı odaklı tasarımlar oluşturmayı ve yeni teknolojiler öğrenmeyi seviyorum.  
-Kod yazmak benim için sadece iş değil, <b>tutku</b> 💜
+Backend ve veritabanı mimarisine ağırlık veriyor, Swift & .NET teknolojileri ile ölçeklenebilir sistemler geliştiriyorum.  
+Yeni teknolojiler öğrenmek ve performans odaklı çözümler üretmek en büyük tutkum 💜
 </p>
 
 ---
 
-### 🚀 Kullandığım Teknolojiler & Araçlar
+### 🚀 Teknolojiler
 
+#### 🔥 Uzmanlık Alanlarım (Öncelikli)
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,swift,html,css,js,postgres,mysql,sqlite,firebase,postman,git,github,visualstudio,vscode,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=swift,dotnet,postgres&theme=dark" height="50"/>
+</p>
+
+#### 🎯 Aktif Kullandıklarım
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,mssql,oracle,firebase,angular" height="42"/>
+</p>
+
+#### 💡 Deneyim Sahibi Olduklarım
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,postman,visualstudio,vscode,figma" height="42"/>
 </p>
 
 ---
@@ -32,7 +43,6 @@ Kod yazmak benim için sadece iş değil, <b>tutku</b> 💜
 📍 Projelerimi incelemek için → **Repositories** bölümüne göz atabilirsin 💜
 
 ---
-
 
 ### 💌 İletişim
 
