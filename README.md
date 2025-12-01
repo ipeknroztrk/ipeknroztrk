@@ -35,11 +35,10 @@ Kod yazmak benim için sadece iş değil, <b>tutku</b> 💜
 
 ### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipeknroztrk&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipeknroztrk&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipeknroztrk&layout=compact&theme=radical" height="150"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ipeknroztrk&show_icons=true&theme=radical" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ipeknroztrk&theme=radical" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipeknroztrk&layout=compact&theme=radical" height="150"/>
+
 
 
 ---
