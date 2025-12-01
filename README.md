@@ -1,5 +1,6 @@
-<!-- PROFİL BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C779D0&height=230&section=header&text=İpek%20Nur&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C779D0&height=230&section=header&text=İpek%20Nur&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
 
 <h2 align="center">👩🏻‍💻 Full Stack Developer | Swift & .NET • PostgreSQL</h2>
 
