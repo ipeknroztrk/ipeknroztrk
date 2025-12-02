@@ -5,7 +5,7 @@
 <h2 align="center">👩🏻‍💻 Full Stack Developer | .NET • C# </h2>
 
 <p align="center">
-Merhaba, ben <b>İpek Nur</b>. Backend ağırlıklı çalışan bir full-stack geliştiriciyim.  
+Merhaba, ben <b>İpek Nur Öztürk</b>. Backend ağırlıklı çalışan bir full-stack geliştiriciyim.  
 
 </p>
 
